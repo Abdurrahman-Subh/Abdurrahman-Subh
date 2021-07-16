@@ -7,6 +7,9 @@
 - 👯 I’m looking to work as an intern!
 - 🥅 2021 Goals: Is to learn every minute
 - ⚡ Fun fact: I can speak 3 languages fluently
+- 🔭 I’m currently working on E-Commerce Website using React
+- 💬 Ask me about anything
+- 📫 How to reach me: [<img align="left" alt="  | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdurrahman-subh/)
 
 ### Connect with me:
 
