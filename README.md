@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React.js and Node.js!
 - 👯 I’m looking to work as an intern!
-- 🥅 2021 Goals: Is to learn every minute
+- 🥅 2022 Goals: Is to learn every minute
 - ⚡ Fun fact: I can speak 3 languages fluently
 - 🔭 I’m currently working on a Blog Website using React and Django With RESTAPI
 - 💬 Ask me about anything
