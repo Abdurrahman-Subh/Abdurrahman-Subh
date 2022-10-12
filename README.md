@@ -3,11 +3,10 @@
 
 ## I'm a Software Enginner!
 
-- 🌱 I’m currently learning React.js and Node.js!
-- 👯 I’m looking to work as an intern!
-- 🥅 2022 Goals: Is to learn every minute
+- 🌱 I’m currently working as Front-End developer at GGM Gastro!
+- 🥅 2022 Goals: Is to keep learning every minute
 - ⚡ Fun fact: I can speak 3 languages fluently
-- 🔭 I’m currently working on a Blog Website using React and Django With RESTAPI
+- 🔭 I’m currently working using VUE.JS framework
 - 💬 Ask me about anything
 - 📫 How to reach me: 
 - [<img align="left" alt="  | LinkedIn"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdurrahman-subh/)
