@@ -4,9 +4,9 @@
 ## I'm a Software Enginner!
 
 - 🌱 I’m currently working as Front-End developer at GGM Gastro!
-- 🥅 2022 Goals: Is to keep learning every minute
+- 🥅 2023 Goals: Is to keep learning every minute
 - ⚡ Fun fact: I can speak 3 languages fluently
-- 🔭 I’m currently working using VUE.JS framework
+- 🔭 I’m currently working using NEXT.js framework
 - 💬 Ask me about anything
 <br/>
 
